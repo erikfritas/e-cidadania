@@ -39,7 +39,7 @@ If you don't want to create an isolated development environment:
 
 * Make all the south migrations::
 
-    pytohn manage.py migrate
+    python manage.py migrate
 
 * Copy all the static files::
 
